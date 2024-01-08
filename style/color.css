@@ -1,0 +1,148 @@
+.hero{
+    background-image: url('../resources/Banner\ Image.png');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    filter: drop-shadow(10px 10px 13px gray);
+    
+    
+}
+
+.hero h3{
+    color: #FFF;
+    text-align: center;
+    padding-top: 350px;
+    font-size: 30px;
+}
+
+.hero h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 60px;
+}
+
+.hero-1 h1{
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    
+}
+
+.hero-1 h3{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+
+.hero-1 h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.hero-photo{
+    padding-left: 790px;
+}
+
+.victor{
+    background-image: url(../resources/Vectorrr.png);
+
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.victor h1{
+    text-align: center;
+    padding-top: 200px;
+    padding-right: 700px;
+    font-size: 60px;
+    color: #FFF;
+}
+
+.victor h2{
+    text-align: center;
+    color:  rgba(255, 255, 255, 0.80);
+    padding-right: 500px;
+
+}
+.victor h3{
+    color: #FFF;
+    font-size: 27px;
+    text-align: center;
+    padding-top: 5px;
+    padding-right: 900px;
+
+}
+
+.group{
+    position: relative;
+  left: 1500px;
+
+  bottom: 390px;
+
+}
+
+.stylefont{
+    text-align: center;
+    padding-top: 200px;
+    background-color: #f6e1e1;
+    height: 400px;
+    width: 1500px;
+    margin-left: 450px;
+
+}
+.place{
+    color: red;
+}
+
+.date{
+    color: red;
+}
+.time{
+    color: red;
+}
+
+.the{
+    color: red;
+    font-size: 25px;
+    padding-left: 450px;
+}
+
+.our{
+    font-size: 50px;
+    padding-left: 450px;
+
+}
+
+.dolar{
+    color: rgba(7, 2, 17, 0.60);
+    padding-left: 450px;
+}
+
+.imgsrc{
+    padding-left: 420px;
+}
+
+.rana{
+    padding-left: 420px;
+}
+.Groupemail{
+    padding-left: 1000px;
+}
+
+.news-2 h1 {
+   text-align: center;
+   padding-right: 240px;
+    
+ 
+
+   
+
+}
+
+.dolar{
+    text-align: center;
+    padding-right: 600px;
+
+}
+
